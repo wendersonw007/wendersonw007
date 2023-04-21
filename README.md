@@ -3,9 +3,8 @@
 <h3> :boy: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **PÓS GRADUAÇÃO - Em análise e desenvolvimento de sistemas** na <a href="https://descomplica.com.br/">Descomplica</a>.
 - 💼 &nbsp; Trabalhando como **PROGRAMADOR** na <a href="https://sifat.com.br/">Sifat Sistemas</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Python/Django - Javascript - Vue.js**.
+- 🌱 &nbsp; Aprendendo mais sobre **Flutter**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
