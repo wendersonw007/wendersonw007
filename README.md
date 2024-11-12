@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 💼 &nbsp; Trabalhando como **PROGRAMADOR** na <a href="https://sifat.com.br/">Sifat Sistemas</a>
-- 🌱 &nbsp; Aprendendo mais sobre **Flutter**.
+- 🌱 &nbsp; Aprendendo mais sobre **Python**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
